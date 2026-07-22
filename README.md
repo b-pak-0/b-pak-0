@@ -1,4 +1,8 @@
 ## Hello, World! 👋
+
+I'm working on some computational neuroscience projects at the moment...
+Also learning image processing techniques, machine learning, and deep learning!
+
 <!--
 **b-pak-0/b-pak-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
