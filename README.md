@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello, World
 
 I'm working on some computational neuroscience projects at the moment...
 Also learning image processing techniques, machine learning, and deep learning!
