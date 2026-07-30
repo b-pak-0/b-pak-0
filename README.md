@@ -1,7 +1,10 @@
 ## Hello, World
 
-I'm working on some computational neuroscience projects at the moment...
+I'm working on some computational neuroscience projects at the moment. 
+
 Also learning image processing techniques, machine learning, and deep learning!
+
+Check out the READMEs of my projects. There, besides instructions and functionality, I also post learnings and personal discoveries!
 
 <!--
 **b-pak-0/b-pak-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
